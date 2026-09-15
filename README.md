@@ -6,10 +6,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | Sentinel |
+| **Team Name** | Secret Coders |
 | **Track** | AI / Security |
-| **Team Lead** | BhavyPan |
-| **Members** | BhavyPan |
+| **Team Lead** | BhavyPan : 25ce098@charusat.edu.in |
+| **Members** | BhavyPan , Veera Patel, Hetvi Sangani, Feni Sapariya |
 
 ---
 
